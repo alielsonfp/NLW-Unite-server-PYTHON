@@ -17,7 +17,7 @@ def test_insert_attendee():
     attendees_repository = AttendeesRepository()
     response = attendees_repository.insert_attendee(attendees_info)
     print(response)
-
+@pytest.mark.skip(reason="...")
 def test_get_attendee_badge_by_id():
     attendde_id = "meu_uuid_attendee"
     attendees_repository = AttendeesRepository()

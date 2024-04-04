@@ -13,6 +13,6 @@ class Attendees(Base):
 
     def __repr__(self):
         return f"Attendees [name = {self.name}, email = {self.email}, event_id{self.event_id}]"
-
+ 
 
 
