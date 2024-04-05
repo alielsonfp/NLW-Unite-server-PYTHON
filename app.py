@@ -8,4 +8,3 @@ if __name__ == "__main__":
     # e na porta 3000
     # Habilitando o modo de depuração para facilitar a depuração (debug)
     app.run(host="0.0.0.0", port=3000, debug=True)
-
