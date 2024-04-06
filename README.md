@@ -57,8 +57,7 @@ Execute o seguinte comando no terminal para clonar o repositório:
 
 git clone https://github.com/alielsonfp/NLW-Unite-server-PYTHON.git
 
-## Iniciando o Servidor
-
-Navegue até a pasta do projeto e execute o seguinte comando para iniciar o servidor:
+## Executando a aplicação
+Navegue até a pasta do projeto e execute o seguinte comando através do promp de comando para iniciar o servidor:
 
 python app.py
