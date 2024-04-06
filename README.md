@@ -45,7 +45,7 @@ Nessa aplicação vamos utilizar banco de dados relacional (SQL). Para ambiente 
 
 ## Diagrama ERD
 
-<img src="https://github.com/alielsonfp/NLW-Unite-server-PYTHON/blob/main/erd.svg" alt="Diagrama ERD" width="350" height="auto">
+<img src="https://github.com/alielsonfp/NLW-Unite-server-PYTHON/blob/master/erd.svg" alt="Diagrama ERD" width="350" height="auto">
 
 # Comando de execução
 
