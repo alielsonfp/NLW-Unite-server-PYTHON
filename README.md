@@ -47,17 +47,12 @@ Nessa aplicação vamos utilizar banco de dados relacional (SQL). Para ambiente 
 
 <img src="https://github.com/alielsonfp/NLW-Unite-server-PYTHON/blob/master/erd.svg" alt="Diagrama ERD" width="350" height="auto">
 
-# Como executar
-
-Para clonar este repositório e iniciar o servidor, siga estas etapas:
+# Como Executar
 
 ## Clonando o Repositório
 
-Execute o seguinte comando no terminal para clonar o repositório:
-
 git clone https://github.com/alielsonfp/NLW-Unite-server-PYTHON.git
 
-## Executando a aplicação
-Navegue até a pasta do projeto e execute o seguinte comando através do promp de comando para iniciar o servidor:
+## Iniciando o Servidor
 
 python app.py
